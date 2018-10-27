@@ -6,9 +6,6 @@
 
             <listener class-name="resourses.ExtentReporterNG"/>
 
-
-
-
     </listeners>
     <test name="Test 1" >
         <classes>
@@ -67,8 +64,5 @@
 
     </classes>
 </test>
-
-
-
 
 </suite>
