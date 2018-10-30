@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a8eb3d-8ed8-413e-bb5c-2e23a4d505c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/envirer/ContactUsForm.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/envirer/LoginScreen.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/envirer/PlantTreeScreen.class" afterDir="false" />
@@ -23,6 +22,8 @@
       <change afterPath="$PROJECT_DIR$/target/test-classes/TestCases/VerifyEnvLogo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/TestCases/VerifyLogin.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/TestCases/justp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/TreeComponentsOnListingpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/TreeComponentsOnListingpage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/ExtentReportsTestNG.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReportsTestNG.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/war/META-INF/JENKINS.SF" beforeDir="false" afterPath="$PROJECT_DIR$/war/META-INF/JENKINS.SF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/war/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/war/META-INF/MANIFEST.MF" afterDir="false" />
@@ -135,8 +136,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/TreeComponentsOnListingpage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="367">
+              <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,7 +195,6 @@
         <option value="$PROJECT_DIR$/src/main/java/resourses/Listeners.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/envirer/ContactUsForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/envirer/Walletscreen.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCases/TreeComponentsOnListingpage.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCases/EmailValidator.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCases/ValidateBrokenLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCases/ValidateLoginScreen.java" />
@@ -212,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TestCases/justp.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/TestNG.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCases/TreeComponentsOnListingpage.java" />
       </list>
     </option>
   </component>
@@ -450,7 +451,7 @@
       <workItem from="1539752910784" duration="27875000" />
       <workItem from="1540186475710" duration="20176000" />
       <workItem from="1540375633608" duration="9065000" />
-      <workItem from="1540788594355" duration="6925000" />
+      <workItem from="1540788594355" duration="8592000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Movement">
       <created>1540376940278</created>
@@ -502,10 +503,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275630000" />
+    <option name="totallyTimeSpent" value="277297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -875,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/TreeComponentsOnListingpage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="367">
+          <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
