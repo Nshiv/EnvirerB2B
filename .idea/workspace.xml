@@ -296,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNG.xml">
+  <component name="RunManager" selected="TestNG.PlantTreeform.PlantTreeFormSubmission">
     <configuration name="justp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestCases.justp" />
       <module name="Automation" />
